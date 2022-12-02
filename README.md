@@ -50,7 +50,7 @@ Once you've caught up using those you'll have the base knowledge you'll need to 
   3. Now we can add this repository as an upstream remote to our local repo with the following command:
   
       ```console
-      git remote add upstream git@github.com:FourthBrain/Branching-out-of-the-Notebook.git
+      git remote add upstream https://github.com/FourthBrain/Branching-out-of-the-Notebook.git
       ```
     
   4. Next, we're going to pull this repo into our local using the following command: 
